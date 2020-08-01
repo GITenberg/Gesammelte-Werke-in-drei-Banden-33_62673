@@ -1,5 +1,8 @@
 _repo: Gesammelte-Werke-in-drei-Banden-33_62673
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62673-h/images/cover.jpg
 creator:
   author:
     agent_name: Dehmel, Richard
@@ -11,6 +14,8 @@ creator:
     - https://de.wikipedia.org/wiki/Richard_Dehmel
     - https://en.wikipedia.org/wiki/Richard_Dehmel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62673#Gesammelte-Werke-in-drei-Banden-33
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
